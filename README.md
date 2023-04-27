@@ -2,7 +2,7 @@
 
 ### Steps to reproduce this bug
 
--Download the installation iso of Devuan Chimaera [from one of its mirrors](https://mirror.leaseweb.com/devuan/devuan_chimaera/desktop-live/devuan_chimaera_4.0.2_amd64_desktop-live.iso). Boot the iso and run the installer:
+-Download the "desktop-live" installation iso of Devuan Chimaera [from any of its mirrors](https://mirror.leaseweb.com/devuan/devuan_chimaera/desktop-live/devuan_chimaera_4.0.2_amd64_desktop-live.iso). Boot the iso and run the installer:
 
 ![](01.PNG)
 
